@@ -2,7 +2,7 @@
 #www.stuffaboutcode.com
 #Astro Pi Snake
 from random import randint
-from astro_pi import AstroPi
+from sense_hat import AstroPi
 from time import sleep
 import pygame
 from pygame.locals import *
